@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Footer Navigation</string>
+
+    <string name="tab1">NEWS</string>
+    <string name="tab2">VIDEOS</string>
+    <string name="tab3">LIVE</string>
+
+</resources>
